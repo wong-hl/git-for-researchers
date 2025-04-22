@@ -21,6 +21,15 @@
   - Very useful information on getting started with `git`
   - Written for teaching developers how to use `git` making it very useful for getting to grips with `git` and is very practical
 
+### Imperial Grad School Course
+
+These have been created by the Imperial College Research Computing Service
+
+1. [Introduction to Git and GitHub for Software Development](https://imperialcollegelondon.github.io/introductory_grad_school_git_course/index.html)
+2. [Further Git and GitHub for Effective Collaboration](https://imperialcollegelondon.github.io/intermediate_grad_school_git_course/)
+
+Another useful course that's not related to `git` is [Essential Software Engineering for Researchers](https://imperialcollegelondon.github.io/grad_school_software_engineering_course/)
+
 ## Demos
 
 ### Create Repository
