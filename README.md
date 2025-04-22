@@ -20,3 +20,9 @@
   - Less detailed than the book and documentation
   - Very useful information on getting started with `git`
   - Written for teaching developers how to use `git` making it very useful for getting to grips with `git` and is very practical
+
+## Demos
+
+### Create Repository
+
+![create repository demo](create_repo_demo.gif)
