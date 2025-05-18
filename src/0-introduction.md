@@ -8,10 +8,12 @@ Instead of giving you a laundry list of all of the resources under the sun, I ha
 
 ## What about the demos?
 
+The demos are below the list of resource available.
+
 ## GRRR a link is broken...
 
 I apologise in advance. But, things move around on the internet. Please open an [issue](https://github.com/wong-hl/git-for-researchers/issues) and I'll do my best to fix it!
 
-## Come across a life-changing resource you would like to shared?
+## Come across a life-changing resource you would like to share?
 
 Please open a [pull request](https://github.com/wong-hl/git-for-researchers/pulls)!
