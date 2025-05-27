@@ -1,5 +1,14 @@
 # Starting with Git
 
+<figure>
+    <img src="https://imgs.xkcd.com/comics/git.png" alt="xkcd comic about git">
+    <figcaption>Source: <a href="https://xkcd.com/1597">xkcd 1597</a></figcaption>
+</figure>
+
+<!--https://imgs.xkcd.com/comics/git.png  -->
+
+## Suggested Resources
+
 | I'm looking for a ...                                                                                   | Link                                                                                                                                                   | Description                                                                                                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Detailed guide to walk me through the set-up of `git` and GitHub                                        | [Software Carpentry Guide to Version Control with Git](https://swcarpentry.github.io/git-novice/index.html)                                            | The summary and set up page provides information about how to install `git` and creating a GitHub Account. Episodes 2 and 3 within the guide are about how to set up `git` and create the repository. The subsequent episodes provide practical advice on how to use `git` |

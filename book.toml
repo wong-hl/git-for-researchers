@@ -3,3 +3,10 @@ authors = ["Hui Ling Wong"]
 language = "en"
 src = "src"
 title = "Git For Researchers"
+
+[preprocessor.pagetoc]
+
+[output.html]
+additional-css = ["theme/pagetoc.css"]
+additional-js  = ["theme/pagetoc.js"]
+mathjax-support = true

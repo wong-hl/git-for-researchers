@@ -1,5 +1,10 @@
 # Welcome! The Journey Awaits
 
+<figure>
+    <img src="images/project-history.jpg" alt="Image comparing version track with v1, final etc and git">
+    <figcaption>Unlike vaguely named files, version control makes it easy go to a specific version of a file. Source: The Turing Way project illustration by Scriberia. DOI: <a href="https://doi.org/10.5281/zenodo.3332807">The Turing Way Community & Scriberia (2024)</a></figcaption>
+</figure>
+
 ## How to use this resource?
 
 This does *not* contain any guides on how to use `git`. There are tonnes of fantastic resources made by people who know `git` like the back of their hand. So, this is to *signpost* you to these resources.
