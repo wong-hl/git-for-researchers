@@ -24,6 +24,8 @@ jobs:
           mkdir mdbook
           curl -sSL $url | tar -xz --directory=./mdbook
           echo `pwd`/mdbook >> $GITHUB_PATH
+      - name: Install mdbook-pagetoc
+        run: cargo install mdbook-pagetoc
       - name: Build Book
         run: |
           # This assumes your book is in the root of your repository.
