@@ -11,9 +11,30 @@ This does *not* contain any guides on how to use `git`. There are tonnes of fant
 
 Instead of giving you a laundry list of all of the resources under the sun, I have selected one or two resources which I think is the best for learning or achieving something. However, best is very subjective. Therefore, I will also include the other resources I have found in a list below the featured ones.
 
-## What about the demos?
+## Help!! I've been bitten by the coding bug! What do I do??
 
-The demos are below the list of resource available.
+Firstly, stay calm. Don't panic. It happens to even the best of us. Each path to and from this point unfurls in countless, unknowable directions, with the grace of a cat knocking a potted plant off a tall shelf - chaotic yet inexplicably elegant.
+
+| I want to ...                                                                  | Link                                                                                                             | Description                                                                                                                                                                                                              |
+| ------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Learn more skills to help with my research                                     | [CodeRefinery workshops](https://coderefinery.org/lessons/)                                                      | Code refinery "teaches all the essential tools which are usually skipped in academic education so everyone can make full use of software, computing, and data with focus on reusability, reproducibility, and openness." |
+| Basics about unix and programming in Python or R                               | [Software Carpentry lessons](https://software-carpentry.org/lessons/)                                            | "Software Carpentry is a lesson program within The Carpentries teaching basic lab skills for research computing"                                                                                                         |
+| Read a book that's both philosophical and introduces computer science concepts | [Gödel, Escher, Bach](https://en.wikipedia.org/wiki/G%C3%B6del,_Escher,_Bach)                                    | This is the first computer science book I ever read. It explains computer science concepts in a very approachable manner and has an underlying philosophical question about how cognition emerges                        |
+| Read a book about creating good software                                       | [The Pragmatic Programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/) | This book "examines the core of modern software development—understanding what is wanted and producing working, maintainable code that delights its users"                                                               |
+
+## I don't believe your "good coding practice" conspiracy theory. Are you just making this up?
+
+Yes, I am. 😉 Check out these resources,
+
+- Blog post: [The Hitchhiker’s Guide to Research Software Engineering: From PhD to RSE](https://invenia.github.io/blog/2020/07/07/software-engineering/)
+  - The section "What I wish I knew in my PhD" is a great read for people just starting their PhD or in the throes of it.
+- Chapter on [Version Control](https://book.the-turing-way.org/reproducible-research/vcs) in The Turing Way
+  - [The Turing Way](https://book.the-turing-way.org/) is a fantastic handbook for learning more about [how to make your research can be reproducible](https://book.the-turing-way.org/reproducible-research/reproducible-research), [how to plan and manage your project](https://book.the-turing-way.org/project-design/project-design) and [how to communicate your research](https://book.the-turing-way.org/communication/communication)
+  - The Turing Way is massive and can feel daunting to read. However, they have pathways, e.g. [Early Career Researchers](https://book.the-turing-way.org/communication/communication), which are a curated list of chapter targeted for the pathway's audience.
+
+<!-- ## Where are your demos?
+
+The demos are below the list of resource available. -->
 
 ## GRRR a link is broken...
 
