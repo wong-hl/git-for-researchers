@@ -32,6 +32,15 @@ Yes, I am. 😉 Check out these resources,
   - [The Turing Way](https://book.the-turing-way.org/) is a fantastic handbook for learning more about [how to make your research can be reproducible](https://book.the-turing-way.org/reproducible-research/reproducible-research), [how to plan and manage your project](https://book.the-turing-way.org/project-design/project-design) and [how to communicate your research](https://book.the-turing-way.org/communication/communication)
   - The Turing Way is massive and can feel daunting to read. However, they have pathways, e.g. [Early Career Researchers](https://book.the-turing-way.org/communication/communication), which are a curated list of chapter targeted for the pathway's audience.
 
+## I've started using `git`, does this mean my research is now 100% reproducible?
+
+Unfortunately, it isn't. There are different levels of reproducibility. Plus, if you're the only one that can make heads or tails out of it, then others won't be able to reproduce it either.
+
+Using `git` certainly is a step in the right direction. However, it isn't a panacea.
+
+- If you'd like to learn more about how to make your research reproducible, I highly recommend [this code refinery lesson on how to build reproducible programs and computations](https://coderefinery.github.io/reproducible-research/intro/).
+- If you're looking for a more in-depth guide, I highly recommend [the Turing Way guide for reproducible research](https://book.the-turing-way.org/reproducible-research/reproducible-research/).
+
 <!-- ## Where are your demos?
 
 The demos are below the list of resource available. -->
