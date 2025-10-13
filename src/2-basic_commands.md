@@ -58,6 +58,8 @@ Similarly, while large files should not normally be stored in Git, there may be 
 
 ## Demos
 
+If you're looking for a more visual demonstration of how these git (and more) commands work, check out this [fantastic visual simulator of your Git commands!](https://github.com/initialcommit-com/git-sim#video-animation-examples).
+
 ### What happens when a tracked file is edited?
 
 ![Editing a tracked file](demos/add-commit-push/edit-tracked.gif)
