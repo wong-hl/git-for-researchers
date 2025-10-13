@@ -80,7 +80,7 @@ And this is what happens when the file is tracked,
 
 ### How do I make a commit?
 
-The demo shows how to make a commit while being confident that only the changes you want are committed. 
+The demo shows how to make a commit while being confident that only the changes you want are committed.
 
 ![making a commit](demos/add-commit-push/making-a-commit-ment-with-commit.gif)
 
