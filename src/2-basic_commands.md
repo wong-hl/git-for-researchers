@@ -56,6 +56,20 @@ For example, while binary files are generally discouraged, images used in docume
 
 Similarly, while large files should not normally be stored in Git, there may be situations where they are necessary for reproducibility. In these cases, it is best to use dedicated tools or external storage solutions while keeping references within the repository.
 
+## Useful Tools
+
+### `.gitignore`
+
+A `gitignore` file specifies intentionally untracked files that Git should ignore. This can help to prevent accidentally adding files that should not be in git from being added to the git repository.
+
+If you're looking for language-specific templates, [this repository](https://github.com/github/gitignore) has templates which you can download and use for your project.
+
+![gitignore demo](demos/add-commit-push/ignore-demo.gif)
+
+### Pre-commit
+
+[Pre-commit](https://pre-commit.com/) is a framework for managing and maintaining multi-language pre-commit hooks. Git hook scripts are useful for identifying simple issues before submission to code review.
+
 ## Demos
 
 If you're looking for a more visual demonstration of how these git (and more) commands work, check out this [fantastic visual simulator of your Git commands!](https://github.com/initialcommit-com/git-sim#video-animation-examples).
@@ -85,7 +99,3 @@ And this is what happens when the file is tracked,
 The demo shows how to make a commit while being confident that only the changes you want are committed.
 
 ![making a commit](demos/add-commit-push/making-a-commit-ment-with-commit.gif)
-
-### How does `gitignore` work?
-
-![gitignore demo](demos/add-commit-push/ignore-demo.gif)
