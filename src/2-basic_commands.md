@@ -70,6 +70,12 @@ If you're looking for language-specific templates, [this repository](https://git
 
 [Pre-commit](https://pre-commit.com/) is a framework for managing and maintaining multi-language pre-commit hooks. Git hook scripts are useful for identifying simple issues before submission to code review.
 
+## Version Control for Data
+
+For more details, check out [The Turing Way's Guide on Version Control for Data](https://book.the-turing-way.org/reproducible-research/vcs/vcs-data/)
+
+![Slide on version control for data](images/version-control-for-data.png)
+
 ## Demos
 
 If you're looking for a more visual demonstration of how these git (and more) commands work, check out this [fantastic visual simulator of your Git commands!](https://github.com/initialcommit-com/git-sim#video-animation-examples).
