@@ -1,5 +1,9 @@
 # Git's 3 Magic Words - `add`, `commit`, `push`
 
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/HY5YyzCicQg?si=G0mA6qY2EwYdtEpu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## "Scroll of Arcane Git Commands"
 
 ![git workflow which shows the add, commit, push, fetch and pull commands](images/git-workflow.png)
