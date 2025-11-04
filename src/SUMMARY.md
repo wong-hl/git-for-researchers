@@ -6,3 +6,4 @@
 - [Git's 3 Magic Words](2-basic_commands.md)
 - [Commit Messages](3-commit_messages.md)
 - [Atomic Commits](4-atomic_commits.md)
+- [Branches](5-branches.md)
