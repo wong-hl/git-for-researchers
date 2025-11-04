@@ -1,5 +1,9 @@
 # Atomic Commits
 
+<div style="text-align: center;">
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pg37nOWq23g?si=LkQ7flcCQ5Qe0DR6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Demos
 
 ### Why are non-atomic commits problematic?
