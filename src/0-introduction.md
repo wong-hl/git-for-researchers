@@ -11,6 +11,20 @@ This does *not* contain any guides on how to use `git`. There are tonnes of fant
 
 Instead of giving you a laundry list of all of the resources under the sun, I have selected one or two resources which I think is the best for learning or achieving something. However, best is very subjective. Therefore, I will also include the other resources I have found in a list below the featured ones.
 
+## Terminal?? That sounds scary — here’s why the demos use it
+
+Demonstrating the various `git` commands works in an IDE, but IDEs can change over time and sometimes obscure what’s happening under the hood. Using the terminal lets you see exactly what’s going on and apply those concepts in any IDE later.
+
+## Are there any recordings of the talks in the series?
+
+Missed out on the talks? Or perhaps you're been 100% sold on using Git and need to try bringing someone else onboard?
+
+[Check out the youtube playlist for the series](https://www.youtube.com/playlist?list=PLHEe13WZmMFarzLXMALCg7mdQLR7ZRAxZ). Or watch the first video here!
+
+<div style="text-align: center;">
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u7-b8A1o6pQ?si=6ZLGSsdOzWMfgDe-" title="Presentation Final Final Final Youtube Media player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
 ## Help!! I've been bitten by the coding bug! What do I do??
 
 Firstly, stay calm. Don't panic. It happens to even the best of us. Each path to and from this point unfurls in countless, unknowable directions, with the grace of a cat knocking a potted plant off a tall shelf - chaotic yet inexplicably elegant.
