@@ -12,7 +12,7 @@
 
 ### Switching between branches with conflicting changes
 
-Explain stashing and explain why git worktree (next) is a good solution to this problem
+<!-- Explain stashing and explain why git worktree (next) is a good solution to this problem -->
 
 ![switching between branches with conflicting changes](demos/branches/conflicting-changes.gif)
 
