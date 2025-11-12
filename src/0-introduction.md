@@ -22,7 +22,7 @@ Missed out on the talks? Or perhaps you're been 100% sold on using Git and need 
 [Check out the youtube playlist for the series](https://www.youtube.com/playlist?list=PLHEe13WZmMFarzLXMALCg7mdQLR7ZRAxZ). Or watch the first video here!
 
 <div style="text-align: center;">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/u7-b8A1o6pQ?si=6ZLGSsdOzWMfgDe-" title="Presentation Final Final Final Youtube Media player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?si=TF4fj_vO6aAC0omU&amp;list=PLHEe13WZmMFarzLXMALCg7mdQLR7ZRAxZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 ## Help!! I've been bitten by the coding bug! What do I do??
