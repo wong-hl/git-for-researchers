@@ -11,6 +11,8 @@ This does *not* contain any guides on how to use `git`. There are tonnes of fant
 
 Instead of giving you a laundry list of all of the resources under the sun, I have selected one or two resources which I think is the best for learning or achieving something. However, best is very subjective. Therefore, I will also include the other resources I have found in a list below the featured ones.
 
+I've also included some demos and content from the talk in their respective pages. I personally don't like looking for information within a video, so the content in those pages are the demos and bits which I think are useful as text.
+
 ## Terminal?? That sounds scary — here’s why the demos use it
 
 Demonstrating the various `git` commands works in an IDE, but IDEs can change over time and sometimes obscure what’s happening under the hood. Using the terminal lets you see exactly what’s going on and apply those concepts in any IDE later.
