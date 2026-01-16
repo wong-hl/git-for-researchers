@@ -65,3 +65,13 @@ In this demo, we begin with a diff showing many unrelated changes. The goal is t
 This workflow highlights the value of `git add -p` in maintaining clean, atomic commits. By reviewing and selectively staging changes, you can ensure each commit represents one logical, self-contained piece of work — improving traceability, collaboration, and future debugging.
 
 ![using git add -p](demos/atomic-commits/git-add-p.gif)
+
+#### This looks confusing? What is the point of it again?
+
+`git add -p` is a slightly more advanced command, and the goal of introducing it here isn’t necessarily to have you use it immediately, but to show that this kind of functionality exists. Once you know it’s possible, you may notice that your IDE offers a similar feature with a more user-friendly interface. The command-line version is simply what’s happening under the hood, and understanding it gives you a clearer picture of what your IDE is actually doing.
+
+Personally, I prefer working in the command line with Git because I’m terrible at remembering the exact sequence of clicks needed to achieve a specific result in an IDE.
+
+The main use case for `git add -p` is when you’ve been working on a fairly large feature, or on multiple things at once, and you realise that your changes should be split into smaller, more focused commits rather than bundled into one large commit. I didn’t fully appreciate how useful this command was until I had written a fair amount of code.
+
+I also tend to be extremely cautious about what I add to Git and want to have a greater level of control over what gets added. Using `git add -p` in my day-to-day workflow lets me explicitly see which changes are being staged, rather than relying on what I *think* has changed in a file. That extra level of visibility helps prevent mistakes and encourages cleaner, more intentional commits.
